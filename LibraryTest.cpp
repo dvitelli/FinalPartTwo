@@ -17,6 +17,7 @@ int main()
 	std::vector<int> newVector;
 
 	newVector = vectorOne.operator+(testTwo);
+	std::cout << " ";
 
 	newVector = vectorOne.operator-(testTwo);
 
